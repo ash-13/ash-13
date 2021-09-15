@@ -20,7 +20,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ash-13&style=flat-square&color=blue)
 
-🔎 Currently looking for Job
+🔎 Working as Intern in [Angel's Virtual World](https://angelsvirtualworld.com/)
 
 🏁 Did Internship with SONAI-AI
 
