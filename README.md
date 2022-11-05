@@ -38,9 +38,9 @@
 
 * 📦 Bank Note Authentication Heroku Deployment [GitHub](https://github.com/ash-13/bank_note_authentication_heroku)
 
-* 📦 Calling Bot, which is an Internship Project
+* 📦 Calling Bot, which call the Interviewee when ever there is new member applied and takes interview by itself
 
-* 📦 Text-to-Speach Speach-to-Text, also an Internship Project
+* 📦 Text-to-Speach Speach-to-Text, we made our own from the scratch according to our fit for the interviewing purpose
 
 * 📦 NLP model gentrates TV Scrips [GitHub](https://github.com/ash-13/Genrate_TV_script)
 
