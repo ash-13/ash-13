@@ -19,8 +19,10 @@
 &nbsp;&nbsp;
 
 ![](https://komarev.com/ghpvc/?username=ash-13&style=flat-square&color=blue)
+  
+🔎 Worked as Data Analyst in [Caterspoint Futuristics Fooods Pvt Ltd](https://www.caterspoint.com/)
 
-🔎 Working as Intern in [Angel's Virtual World](https://angelsvirtualworld.com/)
+🔎 Worked as Machine Learning Engineer in [Angel's Virtual World](https://angelsvirtualworld.com/)
 
 🏁 Did Internship with SONAI-AI
 
