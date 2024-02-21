@@ -3,7 +3,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/ashish-sapra" target="blank">
+<a href="https://linkedin.com/in/ashishdevo28" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="ashish-sapra" width="22px" />
 </a>
 &nbsp;&nbsp;
@@ -13,7 +13,7 @@
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.instagram.com/sapra5298/" target="blank">
+<a href="https://www.instagram.com/ashishdevo28/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="sapra5298" width="22px" />
 </a>
 &nbsp;&nbsp;
